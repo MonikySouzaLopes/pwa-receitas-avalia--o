@@ -1,0 +1,22 @@
+{
+    "id": "/index.html",
+    "name": "Pwa de receitas de doces, massas e carnes",
+    "short_name": "Pwa de receitas",
+    "icons": [
+        {
+            "src": "/images/pwa-receitas-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/pwa-receitas-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-Br",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}

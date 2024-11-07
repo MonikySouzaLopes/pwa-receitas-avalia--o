@@ -1,0 +1,15 @@
+{
+  "name": "pwa-de-receitas",
+  "version": "1.0.0",
+  "description": "Esta pwa possui várias receitas deliciosas!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Anielly Teixeira e Moniky Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
