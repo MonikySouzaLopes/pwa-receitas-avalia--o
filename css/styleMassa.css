@@ -1,0 +1,44 @@
+body {
+    font-family: 'Comic Sans MS', Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-image: url('/images/magali.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+h1 {
+    color: #ffffff;
+    font-size: 2.8em;
+    text-shadow: 2px 2px 5px #64dd60;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #ff2f2f;
+    border: 2px solid #cfcfcf;
+    border-radius: 12px;
+    padding: 15px 30px;
+    margin: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    background-color: #ff4b4b;
+    
+}
+
+button a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.3em;
+    font-weight: bold;
+}
