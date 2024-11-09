@@ -1,7 +1,11 @@
 let cacheName = "receitas-pwa";
-let filesToCache = ["/", "index.html", "carnes.html", "doces.html",
-    "massas.html", "/js/main.js", "/css/styleCarne.css", "/css/style.css", 
-    "/css/styleDoce.css", "/css/styleMassa.css"
+let filesToCache = ["/", "/index", "/carnes", "/doces",
+    "/massas", "/js/main.js", "/css/styleCarne.css", "/css/style.css", 
+    "/css/styleDoce.css", "/css/styleMassa.css", "/images/turma_da_monica.png", "/images/almondega.jpeg",
+    "/images/biscoito.jpeg", "/images/bolochocolate.jpeg", "/images/carnepanela.jpeg", "/images/frango.jpeg", 
+    "/images/macarraoalho.png", "/images/macarraobranco.jpg", "/images/macarraovermelho.jpg", "/images/magali.png",
+    "/images/pudim.jpeg"
+
 ];
 
 self.addEventListener("install", (e) => {
